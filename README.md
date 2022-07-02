@@ -2,14 +2,14 @@ This is a cat face recognition API. Users will create an account and access the 
 
 ## To run the app follow the instruction below
 
-```json
+```bash
 virtualenv catface
 source env/bin/activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
 
-```json
+```bash
 npm i
 npm start
 ```
